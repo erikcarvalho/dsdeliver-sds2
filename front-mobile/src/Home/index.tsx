@@ -20,7 +20,7 @@ function Home() {
                     Selecione o pedido e {'\n'} entregue no prazo!
                 </Text>
                 <Text style={styles.subTitle}>
-                    Receba todos os pedidos do seu {'\n'} restaurante na palma da dua mão
+                    Receba todos os pedidos do seu {'\n'} restaurante na palma da sua mão
                  </Text>
             </View>
             <View style={styles.footer}>
